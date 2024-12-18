@@ -1,0 +1,14 @@
+.image_left img{
+	float: left;
+	width: 400px;
+	position: absolute;
+
+}
+.image_right{
+	float: right;
+}
+
+.footer-top-area-upside{
+	background: red;
+}
+
